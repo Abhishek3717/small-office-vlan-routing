@@ -8,7 +8,7 @@ This project demonstrates the design and configuration of a small office network
 ## 📁 Files Included
 
 - `Project_VLAN_3Dept_NetworkDesign.pdf` – Detailed project documentation with steps and configurations.
-- `project.pkt` – Cisco Packet Tracer file (if not yet added, please upload).
+- `project.pkt` – Cisco Packet Tracer file .
 
 ---
 
